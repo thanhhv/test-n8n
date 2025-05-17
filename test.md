@@ -1,1 +1,3 @@
-Chào bạn! Bạn có khỏe không? Bạn cần tôi giúp gì không?
+2000 + 42999 = 44999
+
+Vậy đáp án cuối cùng là 44999.
